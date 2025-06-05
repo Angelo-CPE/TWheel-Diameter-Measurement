@@ -5,3 +5,4 @@
 4. Open the Arduino IDE, go to Library Manager search **_VL53L0X_** and install **_VL53L0x by Pololu_** click File, click Open, go to your local path where you cloned the git repo and open **_twheelCalibration.ino_**.
 5. Make sure the **_Select Board_** and **_Tools->Port_** is setup to where your Arduino UNO is connected to.
 6. Press the **_->_** aka **_Upload_**
+7. If the code in **_twheelCalibration.ino_** doesn't work, then use **_twheelCalibrationDraft.ino_** and repeat **_Steps 5-7_**.
